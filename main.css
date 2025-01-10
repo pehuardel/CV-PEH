@@ -3331,3 +3331,7 @@ a {
  width:100%;
  position:absolute;
 }
+
+a i {
+  text-decoration: none;
+}
